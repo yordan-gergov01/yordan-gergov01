@@ -1,3 +1,4 @@
+![logo](https://github.com/yordan-gergov01/yordan-gergov01/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Yordan Gergov</h1>
 <h3 align="center">Ambitious and goal-oriented, I’m passionate about self-improvement and growth, always eager to learn, love spending time coding and reading books, with a keen interest in natural bodybuilding as a hobby.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
