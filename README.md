@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yordan-gergov01&label=Profile%20views&color=0e75b6&style=flat" alt="yordan-gergov01" /> </p>
 
-- 🌱 I’m currently learning **React, AWS, Angular**
+- 🌱 I’m currently learning **React, AWS**
 
 - 📫 How to reach me **yordansoftskills@gmail.com**
 
