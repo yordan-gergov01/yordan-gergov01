@@ -15,6 +15,7 @@
 
 <h3 align="left">📚 Technical books:</h3>
 - Programming with JavaScript (Andrew Yueh)
+
 - An introduction to operating systems (Mark Burgess)
 
 <h3 align="left">Connect with me:</h3>
