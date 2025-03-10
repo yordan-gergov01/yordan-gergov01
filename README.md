@@ -30,5 +30,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordan-gergov01&show_icons=true&locale=en&layout=compact" alt="yordan-gergov01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yordan-gergov01&" alt="yordan-gergov01" /></p>
-
