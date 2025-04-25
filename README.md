@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Java & React**
+- 🌱 I’m currently learning **NodeJS Core Concepts & React**
 
 - 👨‍💻 Look at my interactive portfolio [https://about-yordan-gergov.netlify.app/](https://about-yordan-gergov.netlify.app/)
 
