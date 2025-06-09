@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **NodeJS Core Concepts & React**
 
-- 👨‍💻 Look at my interactive portfolio [https://about-yordan-gergov.netlify.app/](https://about-yordan-gergov.netlify.app/)
 
 - 📫 How to reach me **yordansoftskills@gmail.com**
 
