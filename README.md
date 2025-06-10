@@ -6,10 +6,10 @@
 
 
 
-- 🌱 I’m currently learning **NodeJS Core Concepts & React**
+- 🌱 I’m currently learning: **NodeJS Core Concepts & React**
 
 
-- 📫 How to reach me **yordansoftskills@gmail.com**
+- 📫 How to reach me: **yordansoftskills@gmail.com**
 
 
 <h3 align="left">📚 Technical books:</h3>
