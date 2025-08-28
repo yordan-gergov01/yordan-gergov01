@@ -6,10 +6,13 @@
 
 
 
-- 🌱 I’m currently learning: **NodeJS Core Concepts & React**
+- 🌱 I’m currently learning: **NodeJS Core Concepts & Attending back-end academy**
 
 
 - 📫 How to reach me: **yordansoftskills@gmail.com**
+
+
+- 👨‍💻 Currently workplace: Celtis Ltd. as **JavaScript Developer**
 
 
 <h3 align="left">📚 Technical books:</h3>
