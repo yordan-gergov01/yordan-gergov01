@@ -39,7 +39,7 @@
     <img align="center" width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordan-gergov01&show_icons=true&locale=en&layout=compact" alt="yordan-gergov01" />
  <img
      align="center"
-     margin-left="4px"
+     padding-left="4px"
     src="https://github.r2v.ch/codewars?user=yordan.gergov&top_languages=true&hide_clan=true&stroke=%23BB432C"
     alt="Codewars stats"
     width="350"
