@@ -37,8 +37,7 @@
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordan-gergov01&show_icons=true&locale=en&layout=compact" alt="yordan-gergov01" />
-    <a href="https://www.codewars.com/users/yordan.gergov" target="_blank">
-    <img src="https://www.codewars.com/users/yordan.gergov/badges/large" alt="codewars stats" height="200"/>
+    <img src="https://github-readme-codewars-stats.vercel.app/api/codewars?username=yordan.gergov&theme=dark&hide_clan=true" alt="codewars stats" height="200"/>
   </a>
 </p>
 
