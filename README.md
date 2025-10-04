@@ -39,6 +39,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordan-gergov01&show_icons=true&locale=en&layout=compact" alt="yordan-gergov01" />
   <a href="https://github.com/ignacio-cuadra/github-readme-codewars" target="_blank">
     <img
+      align="center"
       src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=yordan.gergov&theme=dark"
       alt="Codewars stats for yordan.gergov"
       height="200"
