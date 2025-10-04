@@ -40,7 +40,7 @@
   <a href="https://github.com/ignacio-cuadra/github-readme-codewars" target="_blank">
     <img
       align="center"
-      src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=yordan.gergov&theme=dark"
+      src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=yordan.gergov&theme=dark&hide_clan=true"
       alt="Codewars stats for yordan.gergov"
         width="350" 
         height="200"
