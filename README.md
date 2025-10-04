@@ -42,7 +42,6 @@
       align="center"
       src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=yordan.gergov&theme=dark"
       alt="Codewars stats for yordan.gergov"
-      height="200"
     />
   </a>
   </a>
