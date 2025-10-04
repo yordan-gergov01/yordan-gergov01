@@ -37,15 +37,12 @@
 
 <p>
     <img align="center" width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordan-gergov01&show_icons=true&locale=en&layout=compact" alt="yordan-gergov01" />
-  <a href="https://github.com/ignacio-cuadra/github-readme-codewars" target="_blank">
-    <img
-      align="center"
-      src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=yordan.gergov&theme=dark&hide_clan=true"
-      alt="Codewars stats for yordan.gergov"
-        width="350" 
-        height="200"
-    />
-  </a>
+ <img
+    src="https://github.r2v.ch/codewars?user=yordan.gergov&stroke=%23BB432C"
+    alt="Codewars stats"
+    width="350"
+    height="200"
+  />
   </a>
 </p>
 
