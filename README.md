@@ -37,7 +37,13 @@
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordan-gergov01&show_icons=true&locale=en&layout=compact" alt="yordan-gergov01" />
-    <img src="https://github-readme-codewars-stats.vercel.app/api/codewars?username=yordan.gergov&theme=dark&hide_clan=true" alt="codewars stats" height="200"/>
+  <a href="https://github.com/ignacio-cuadra/github-readme-codewars" target="_blank">
+    <img
+      src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=yordan.gergov&theme=dark"
+      alt="Codewars stats for yordan.gergov"
+      height="200"
+    />
+  </a>
   </a>
 </p>
 
