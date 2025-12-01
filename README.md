@@ -12,7 +12,7 @@
 - 📫 How to reach me: **yordansoftskills@gmail.com**
 
 
-- 👨‍💻 Currently workplace: Celtis Ltd. as **JavaScript Developer**
+- 👨‍💻 Currently workplace: Celtis Ltd. as **Full-Stack Developer**
 
 
 <h3 align="left">📚 Technical books:</h3>
