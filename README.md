@@ -25,7 +25,7 @@
 
 - Eloquent JavaScript - 4th Edition (Marijn Haverbeke)
 
-- You Don't Know JS - All 6 Books (Kyle Simpson)
+- You Don't Know JS - All 6 Books Bundle (Kyle Simpson)
 
 - Grokking Algorithms (Aditya Bhargava)
 
