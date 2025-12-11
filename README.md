@@ -21,8 +21,6 @@
 
 - An introduction to operating systems (Mark Burgess)
 
-- Node.js Design Patterns (Mario Casciaro & Luciano Mammino)
-
 - Eloquent JavaScript - 4th Edition (Marijn Haverbeke)
 
 - You Don't Know JS - All 6 Books Bundle (Kyle Simpson)
