@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning: **NodeJS Core Concepts & Attending back-end academy**
+- 🌱 I’m currently learning: **Python fundamentals for machine learning**
 
 
 - 📫 How to reach me: **yordansoftskills@gmail.com**
