@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning: **Python fundamentals for machine learning**
+- 🌱 I’m currently learning: **Python 3**
 
 
 - 📫 How to reach me: **yordansoftskills@gmail.com**
