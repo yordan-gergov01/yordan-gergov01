@@ -29,8 +29,6 @@
 
 - Computer Networking: A Top-Down Approach (Kurose & Ross)
 
-- Designing Data-Intensive Applications (Martin Kleppmann)
-
 - AI Engineering (Chip Huyen)
 
 <h3 align="left">Connect with me:</h3>
