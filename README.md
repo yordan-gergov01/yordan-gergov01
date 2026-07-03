@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I'm currently learning: **Python 3 and LLMs (AI Engineering)**
+- 🌱 I'm currently learning: **Linear Algebra and Statistics for AI/ML**
 
 
 - 📫 How to reach me: **yordansoftskills@gmail.com**
