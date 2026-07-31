@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I'm currently learning: **Machine learning and Deep learning**
+- 🌱 I'm currently learning: **Deep learning**
 
 
 - 📫 How to reach me: **yordansoftskills@gmail.com**
