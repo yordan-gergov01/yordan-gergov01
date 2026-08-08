@@ -12,7 +12,7 @@
 - 📫 How to reach me: **yordansoftskills@gmail.com**
 
 
-- 👨‍💻 Currently workplace: Celtis Ltd. as **Full-Stack Developer**
+- 👨‍💻 Currently workplace: XYPE AI as **AI Engineer**
 
 
 <h3 align="left">📚 Technical books:</h3>
