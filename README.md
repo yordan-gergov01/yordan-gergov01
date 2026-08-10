@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I'm currently learning: **Deep learning**
+- 🌱 I'm currently learning: **System Design**
 
 
 - 📫 How to reach me: **yordansoftskills@gmail.com**
@@ -32,6 +32,8 @@
 - AI Engineering (Chip Huyen)
 
 - Fluent Python (Luciano Ramalho)
+
+- A Philosophy of Software Design (John Ousterhout)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
