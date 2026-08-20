@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I'm currently learning: **System Design and Linear Algebra**
+- 🌱 I'm currently learning: **System Design**
 
 
 - 📫 How to reach me: **yordansoftskills@gmail.com**
