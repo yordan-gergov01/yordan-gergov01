@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I'm currently learning: **System Design**
+- 🌱 I'm currently learning: **System Design and Architectures**
 
 
 - 📫 How to reach me: **yordansoftskills@gmail.com**
