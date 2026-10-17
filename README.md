@@ -12,7 +12,7 @@
 - 📫 How to reach me: **yordansoftskills@gmail.com**
 
 
-- 👨‍💻 Currently workplace: XYPE AI as **AI Engineer**
+- 👨‍💻 Currently workplace: Ethera Technologies as **AI Software Developer**
 
 
 <h3 align="left">📚 Technical books:</h3>
