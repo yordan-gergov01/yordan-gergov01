@@ -37,8 +37,7 @@
 
 - System Design Interview  (Alex Xu)
 
-- Designing Data-Intensive Applications (Martin Kleppmann
-& Chris Riccomini)
+- System Design for the LLM Era (Sampriti Mitra)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
